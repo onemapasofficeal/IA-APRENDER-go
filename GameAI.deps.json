@@ -1,0 +1,277 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameAI/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Baidu": "1.0.0",
+          "SearchEngine.Bing": "1.0.0",
+          "SearchEngine.BraveSearch": "1.0.0",
+          "SearchEngine.Core": "1.0.0",
+          "SearchEngine.DuckDuckGo": "1.0.0",
+          "SearchEngine.Ecosia": "1.0.0",
+          "SearchEngine.Google": "1.0.0",
+          "SearchEngine.Perplexity": "1.0.0",
+          "SearchEngine.Qwant": "1.0.0",
+          "SearchEngine.Searx": "1.0.0",
+          "SearchEngine.Startpage": "1.0.0",
+          "SearchEngine.TorBrowser": "1.0.0",
+          "SearchEngine.WolframAlpha": "1.0.0",
+          "SearchEngine.Yahoo": "1.0.0",
+          "SearchEngine.Yandex": "1.0.0"
+        },
+        "runtime": {
+          "GameAI.dll": {}
+        }
+      },
+      "SearchEngine.Baidu/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Baidu.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.Bing/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Bing.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.BraveSearch/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.BraveSearch.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.Core/1.0.0": {
+        "runtime": {
+          "SearchEngine.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.DuckDuckGo/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.DuckDuckGo.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.Ecosia/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Ecosia.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.Google/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Google.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.Perplexity/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Perplexity.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.Qwant/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Qwant.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.Searx/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Searx.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.Startpage/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Startpage.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.TorBrowser/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.TorBrowser.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.WolframAlpha/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.WolframAlpha.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.Yahoo/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Yahoo.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SearchEngine.Yandex/1.0.0": {
+        "dependencies": {
+          "SearchEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "SearchEngine.Yandex.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameAI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Baidu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Bing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.BraveSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.DuckDuckGo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Ecosia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Google/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Perplexity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Qwant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Searx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Startpage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.TorBrowser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.WolframAlpha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Yahoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchEngine.Yandex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
